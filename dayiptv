@@ -1,12 +1,12 @@
-#EXTINF:-1 "Bein Sport 1" 
+#EXTINF:-1, "Bein Sport 1" 
 http://magnum-ott.net:80/live/des1/1des/18114.ts 
-#EXTINF:-1 "Bein Sport 2" 
+#EXTINF:-1, "Bein Sport 2" 
 http://magnum-ott.net:80/live/des1/1des/18113.ts 
-#EXTINF:-1 "BEIN SPORT 3"
+#EXTINF:-1, "BEIN SPORT 3"
 http://magnum-ott.net:80/live/des1/1des/18112.ts 
-#EXTINF:-1 "BEIN SPORT 4" 
+#EXTINF:-1, "BEIN SPORT 4" 
 http://magnum-ott.net:80/live/des1/1des/18111.ts 
-#EXTINF:-1 "BEIN SPORT 5" 
+#EXTINF:-1, "BEIN SPORT 5" 
 http://magnum-ott.net:80/live/des1/1des/18110.ts 
-#EXTINF:-1 "carton network"
+#EXTINF:-1, "carton network"
 http://magnum-ott.net:80/live/des1/1des/899.ts
