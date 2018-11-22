@@ -10,3 +10,33 @@ http://magnum-ott.net:80/live/des1/1des/18111.ts
 http://magnum-ott.net:80/live/des1/1des/18110.ts 
 #EXTINF:-1, "carton network"
 http://magnum-ott.net:80/live/des1/1des/899.ts
+#EXTINF:-1, "Action Movies"
+http://magnum-ott.net:80/live/des1/1des/975.ts
+#EXTINF:-1, "Fox Movies"
+http://magnum-ott.net:80/live/des1/1des/2627.ts
+#EXTINF:-1, "Fox Movies HD"
+http://magnum-ott.net:80/live/des1/1des/2628.ts
+#EXTINF:-1, "Hollywood"
+http://magnum-ott.net:80/live/des1/1des/2631.ts
+#EXTINF:-1, "Hollywood HD"
+http://magnum-ott.net:80/live/des1/1des/2630.ts
+#EXTINF:-1, "Nikledeon"
+http://magnum-ott.net:80/live/des1/1des/2570.ts
+#EXTINF:-1, "Sportv 1"
+http://magnum-ott.net:80/live/des1/1des/2608.ts
+#EXTINF:-1, "Sportv 3"
+http://magnum-ott.net:80/live/des1/1des/2603.ts
+#EXTINF:-1, "Sporttv 2 hd"
+http://magnum-ott.net:80/live/des1/1des/2606.ts
+#EXTINF:-1, "Sporttv 4"
+http://magnum-ott.net:80/live/des1/1des/2601.ts
+#EXTINF:-1, "Sportv 4 hd"
+http://magnum-ott.net:80/live/des1/1des/2602.ts
+#EXTINF:-1, "Rai Sport"
+http://magnum-ott.net:80/live/des1/1des/27329.ts
+#EXTINF:-1, "Fox hd"
+http://magnum-ott.net:80/live/des1/1des/27299.ts
+#EXTINF:-1, "Fox"
+http://magnum-ott.net:80/live/des1/1des/27298.ts
+#EXTINF:-1, "Fox life hd"
+http://magnum-ott.net:80/live/des1/1des/27295.ts
