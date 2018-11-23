@@ -1,3 +1,70 @@
+#EXTM3U
+#EXTINF:-1, NET. HD
+http://ez-tracker.net/tvz/Net
+#EXTINF:-1, NET. TV
+http://ez-tracker.net/tvz/Net_2
+#EXTINF:-1, TRANSTV
+http://ez-tracker.net/tvz/TransTV
+#EXTINF:-1, TRANS7
+http://ez-tracker.net/tvz/Trans7
+#EXTINF:-1, RCTI
+http://ez-tracker.net/tvz/RCTI
+#EXTINF:-1, SCTV
+http://ez-tracker.net/tvz/SCTV
+#EXTINF:-1, MNC
+http://ez-tracker.net/tvz/MNC
+#EXTINF:-1, INDOSIAR
+http://ez-tracker.net/tvz/Indosiar
+#EXTINF:-1, ANTV
+http://ez-tracker.net/tvz/ANTV
+#EXTINF:-1, GLOBAL TV
+http://ez-tracker.net/tvz/GTV
+#EXTINF:-1, METROTV
+http://ez-tracker.net/tvz/Metro_TV
+#EXTINF:-1, TV ONE
+http://ez-tracker.net/tvz/TVONE
+#EXTINF:-1, JTV
+http://ez-tracker.net/tvz/JTV
+#EXTINF:-1, RTV
+http://ez-tracker.net/tvz/RTV 
+#EXTINF:-1, KOMPAS TV
+http://ez-tracker.net/tvz/KOMPASTV
+#EXTINF:-1, BERITA SATU WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:-1, JAKARTA GLOBE NEWS CHANNEL
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1, TV PARLEMEN NKRI
+http://iptv.didanurwanda.com/channel/live/tvr-parlemen.m3u8
+#EXTINF:-1, RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1, SINDO TV
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1, CNN
+http://ez-tracker.net/tvz/CNN
+#EXTINF:-1, BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+#EXTINF:-1, BERITA SATU WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:-1, RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1, TVRI Sport
+http://ez-tracker.net/tvz/TVRI_SPORT
+#EXTINF:-1, Jaktv
+http://ez-tracker.net/tvz/JAKTV
+#EXTINF:-1, TV desa
+http://ez-tracker.net/tvz/TV_Desa
+#EXTINF:-1, Dangdut
+http://ez-tracker.net/tvz/dangdut
+#EXTINF:-1, Bkids
+http://ez-tracker.net/tvz/BKids
+#EXTINF:-1, Kids
+http://ez-tracker.net/tvz/NM_KIDS
+#EXTINF:-1, TV ku
+http://103.30.1.14:8080/hls/live.m3u8
+
+
+
+
 #EXTINF:-1, "Bein Sport 1" 
 http://magnum-ott.net:80/live/des1/1des/18114.ts 
 #EXTINF:-1, "Bein Sport 2" 
